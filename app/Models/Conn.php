@@ -16,9 +16,9 @@ class Conn {
 
         if (!isset(self::$pdo)) {
             $servidor = "localhost";
-            $banco = "emprego";
+            $banco = "efcol";
             $usuario = "root";
-            $senha = "Swordfish05879358712";
+            $senha = "18212812";
 
             try {
 
